@@ -1,0 +1,8 @@
+{
+  "halloween.werewolf": {
+    "sounds": [
+      "minecraft:custom/halloween/werewolf"      
+    ],
+    "category": "player"
+  }
+}
