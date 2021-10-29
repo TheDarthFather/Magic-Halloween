@@ -3,7 +3,7 @@ A Halloween config setup for the [Magic Minecraft Plugin](https://www.spigotmc.o
 
 **Instalation**
 
-`mconfig example fetch halloween https://github.com/TheDarthFather/Magic-Halloween/archive/master.zip`
+`mconfig example fetch halloween https://github.com/TheDarthFather/Magic-Halloween/archive/refs/heads/main.zip`
 
 **Dependences:**
 
