@@ -14,4 +14,5 @@ You have two options:
 Of course you need to merge it as well with your server pack if you have one.
 
 **ModelEngine** is used for a few custom mobs.
+
 Download the ModelEngine plugin and copy the mobs from [here](https://github.com/TheDarthFather/Magic-Halloween/tree/main/dependences/modelengine/blueprints) to the plugin blueprints folder
