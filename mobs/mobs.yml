@@ -19,7 +19,14 @@ halloween_base_mob:
   triggers:
     damage_dealt:
       cast:
-      - halloween_poison  
+      - halloween_poison
+  drops:
+  - sp:30: 20
+    sp:20: 55
+    sp:10: 25
+  - halloween_pumpkin_critical_hammer: 1
+    halloween_pumpkin_hammer: 10
+    none: 100
 
 halloween_werewolf:
   inherit: halloween_base_mob
@@ -76,10 +83,8 @@ halloween_spirit:
       cast:
       - halloween_spirit_curse
   drop_xp: 30      
-  drops:
-  - sp:30: 20
-    sp:20: 55
-    sp:10: 25    
+
+    
 halloween_zombie:
   inherit: halloween_base_mob
   type: zombie
@@ -89,11 +94,6 @@ halloween_zombie:
   entity_attributes:
     generic_movement_speed: 0.20
   drop_xp: 30    
-  drops:
-  - "sp:40": 10
-    "sp:30": 30
-    "sp:20": 50
-    "sp:10": 10 
     
 halloween_horseman:
   inherit: halloween_base_mob  
