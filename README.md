@@ -4,6 +4,7 @@ A Halloween config setup for the [Magic Minecraft Plugin](https://www.spigotmc.o
 **Instalation**
 
 `mconfig example fetch halloween https://github.com/TheDarthFather/Magic-Halloween/archive/refs/heads/main.zip`
+
 `/mconfig example add halloween`
 
 **Dependences:**
@@ -21,7 +22,8 @@ Download the ModelEngine plugin and copy the mobs from [here](https://github.com
 
 **3. LibDisquises** for mob disquises. 
 
-**Unninstall**
+
+_**Uninstall**_
 
 `mconfig example halloween remove`
 
