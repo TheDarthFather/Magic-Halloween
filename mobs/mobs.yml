@@ -32,7 +32,7 @@ halloween_base_mob:
 
 halloween_werewolf:
   inherit: halloween_base_mob
-  name: '🎃 &#127875; &6Werewolf'
+  name: '🎃 🎃 &6Werewolf'
   helmet: "skull:MHF_Wolf"
   chestplate: leather_chestplate:#000000
   leggings: leather_leggings:#000000
