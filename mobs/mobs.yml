@@ -2,6 +2,8 @@ halloween_base_mob:
   type: skeleton
   silent: true
   show_name: true
+  item: ""
+  offhand: ""
   drops_require_player_killer: true  
   default_drops: false
   protection:    
@@ -48,24 +50,18 @@ halloween_werewolf:
         sound_pitch: 0.2          
 halloween_spirit:
   inherit: halloween_base_mob
-  health: 50
+  health: 75
   potion_effects:
     invisibility: 0    
     slow_falling: 0  
   name: '&6Spirit'
   transformable: false
-  protection:    
-    physical: 1
-    fire: 1  
-    projectile: 10
-  item: ""
-  offhand: ""
   protection:
     physical: 5
     projectile: 10
   entity_attributes:
     generic_movement_speed: 0.35     
-  interval: 200  
+  interval: 301  
   triggers:
     spawn:
       effects:
@@ -134,7 +130,7 @@ halloween_spider:
   inherit: halloween_base_mob  
   type: spider
   name: "&6Strange Spider"  
-  health: 100
+  health: 50
   entity_attributes:      
     generic_attack_damage: 5  
   triggers:
