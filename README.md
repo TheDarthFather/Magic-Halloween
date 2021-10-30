@@ -35,3 +35,11 @@ _**Uninstall**_
 `/mconfig example halloween remove`
 
 You may want to keep the RP after uninstall if your players got custom Halloween item/wands.
+
+**Features**
+
+... to add current features here
+
+**To Do**
+
+- Add Haunted House Arena and additional mobs
