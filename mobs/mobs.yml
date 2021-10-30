@@ -5,11 +5,11 @@ halloween_base_mob:
   drops_require_player_killer: true  
   default_drops: false
   protection:    
-    physical: 1    
+    physical: 1.2    
     projectile: 4    
     fire: 1  
   weakness:
-    magic: 0.1   
+    magic: 0.15   
   entity_attributes:
     generic_movement_speed: 0.3
     generic_knockback_resistance: 1    
