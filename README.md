@@ -4,6 +4,7 @@ A Halloween config setup for the [Magic Minecraft Plugin](https://www.spigotmc.o
 **Instalation**
 
 `mconfig example fetch halloween https://github.com/TheDarthFather/Magic-Halloween/archive/refs/heads/main.zip`
+`/mconfig example add halloween`
 
 **Dependences:**
 
@@ -19,3 +20,7 @@ Of course you need to merge it as well with your server pack if you have one. Gr
 Download the ModelEngine plugin and copy the mobs from [here](https://github.com/TheDarthFather/Magic-Halloween/tree/main/dependences/modelengine/blueprints) to the plugin blueprints folder
 
 **3. LibDisquises** for mob disquises. 
+
+**Unninstall**
+`mconfig example halloween remove`
+You may want to keep the RP after uninstall if your players got custom Halloween item/wands.
