@@ -40,11 +40,33 @@ You may want to keep the RP after uninstall if your players got custom Halloween
 
 **Features**
 
-... to add current features here
+- 50% from the Overwold are replaced by special Halloweens mobs
+
+- All the mobs will have a smal change to pison, slow, hunger you.
+
+- All the mobs have great resistances to physical damage.
+
+- All the mobs will drop SP and a few custom weapons. 
+
+- Each weapon comes in 2 variants .. one Magical, that rolls different stats on drop and a Unique one that have also a passive spell (ex CriticalChance). 
+
+_Current Mobs_
+
+Ghost: 
+
+Headless Horseman: 
+
+ScareCrow: 
+
+Werewolf: 
+
+Strange Spider: 
+
+Zombiee: 
 
 **To Do**
 
-- Add Haunted House Arena and additional mobs
+- Add Haunted House and additional mobs
 
 **Other**
 
