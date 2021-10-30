@@ -45,12 +45,16 @@ You may want to keep the RP after uninstall if your players got custom Halloween
 - All the mobs have great resistances to physical damage.
 - All the mobs will drop SP and a few custom weapons. 
 - Each weapon comes in 2 variants .. one Magical, that rolls different stats on drop and a Unique one that have also a passive spell (ex CriticalChance). 
+![2021-10-31_00 48 10](https://user-images.githubusercontent.com/23462204/139560597-0717c227-cc6b-408f-9c80-9121e463f62e.png)
+![2021-10-31_00 48 04](https://user-images.githubusercontent.com/23462204/139560599-edf5e20a-c03b-4ed4-ad95-8d538a900044.png)
 
 _Current Mobs_
 
 Ghost: 
+![2021-10-31_00 53 48](https://user-images.githubusercontent.com/23462204/139560625-0807e3ab-71e3-4d22-bdd3-640c6f9e453b.png)
 
 Headless Horseman: 
+![2021-10-31_00 49 34](https://user-images.githubusercontent.com/23462204/139560628-c3fda435-29f7-4317-9743-e5a82e174b68.png)
 
 ScareCrow: 
 
