@@ -8,14 +8,14 @@ A Halloween config setup for the [Magic Minecraft Plugin](https://www.spigotmc.o
 **Dependences:**
 
 **1. Magic-Halloween resource pack** is needed for some custom models.
-You have two options:
-1. Download the pack from [here](https://download.mc-packs.net/pack/202f30d5c4852dbaa8d25243b55da8cc6fddeafb.zip) and merge it with the Magic Pack version of your choice.
-2. Download an already merged pack between Magic-HiRess and MagicHalloween from [here](https://download.mc-packs.net/pack/4f3b3ec460b3a4a62a0ab7e8b30b7e5b7c7dfe06.zip).
+You have two options both available [here](https://github.com/TheDarthFather/Magic-Halloween/tree/main/dependences/resource-pack):
+1. Download the MagicHalloweenRP pack and merge it with the Magic Pack version of your choice.
+2. Download the  merged pack between Magic-HiRess and MagicHalloween.
 
-Of course you need to merge it as well with your server pack if you have one.
+Of course you need to merge it as well with your server pack if you have one. Great tool for this [here](https://merge.elmakers.com/)
 
 **2. ModelEngine** is used for a few custom mobs.
 
 Download the ModelEngine plugin and copy the mobs from [here](https://github.com/TheDarthFather/Magic-Halloween/tree/main/dependences/modelengine/blueprints) to the plugin blueprints folder
 
-**3. LibDisquises** 
+**3. LibDisquises** for mob disquises. 
