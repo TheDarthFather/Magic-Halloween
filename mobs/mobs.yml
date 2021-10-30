@@ -41,12 +41,12 @@ halloween_werewolf:
     spawn:
       effects:
       - sound: halloween.werewolf
-        sound_volume: 2
+        sound_volume: 3
         sound_pitch: 0.2  
     death:
       effects:
       - sound: halloween.werewolf
-        sound_volume: 1.5
+        sound_volume: 2
         sound_pitch: 0.2          
 halloween_spirit:
   inherit: halloween_base_mob
@@ -66,14 +66,14 @@ halloween_spirit:
     spawn:
       effects:
       - sound: halloween.ghost_breath
-        sound_volume: 2
+        sound_volume: 3
         sound_pitch: 0.2
     interval:
       effects: halloween_spirit_movement      
     death:
       effects:
       - sound: halloween.ghost_breath
-        sound_volume: 1.5
+        sound_volume: 2
         sound_pitch: 0.2  
     damage_dealt:
       cast:
@@ -108,12 +108,12 @@ halloween_horseman:
     spawn:
       effects:
       - sound: halloween.igor
-        sound_volume: 2
+        sound_volume: 3
         sound_pitch: 0.2   
     death:
       effects:
       - sound: halloween.igor
-        sound_volume: 1.5
+        sound_volume: 2
         sound_pitch: 0.2   
         
 halloween_horse:
@@ -141,12 +141,12 @@ halloween_spider:
     spawn:
       effects:
       - sound: halloween.swipe
-        sound_volume: 1.8
+        sound_volume: 3
         sound_pitch: 0.2           
     death:
       effects:
       - sound: halloween.swipe
-        sound_volume: 1.5
+        sound_volume: 2
         sound_pitch: 0.2          
 halloween_scarecrow:
   inherit: halloween_base_mob
@@ -159,10 +159,10 @@ halloween_scarecrow:
     spawn:
       effects:
       - sound: halloween.scarecrow
-        sound_volume: 2
+        sound_volume: 3
         sound_pitch: 0.2  
     death:
       effects:
       - sound: halloween.scarecrow
-        sound_volume: 1.5
+        sound_volume: 2
         sound_pitch: 0.2  
