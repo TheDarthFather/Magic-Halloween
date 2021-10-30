@@ -1,0 +1,172 @@
+halloween_base_mob:  
+  type: skeleton
+  silent: true
+  show_name: true
+  drops_require_player_killer: true  
+  default_drops: false
+  protection:    
+    physical: 1    
+    projectile: 4    
+    fire: 1  
+  weakness:
+    magic: 0.1   
+  entity_attributes:
+    generic_movement_speed: 0.3
+    generic_knockback_resistance: 1    
+    generic_attack_damage: 10
+  interval: 1000
+  interval_requires_target: false
+  triggers:
+    damage_dealt:
+      cast:
+      - halloween_poison  
+
+halloween_werewolf:
+  inherit: halloween_base_mob
+  name: '&6Werewolf'
+  helmet: "skull:MHF_Wolf"
+  chestplate: leather_chestplate:#000000
+  leggings: leather_leggings:#000000
+  health: 100
+  triggers:
+    spawn:
+      effects:
+      - sound: halloween.werewolf
+        sound_volume: 2
+        sound_pitch: 0.2  
+    death:
+      effects:
+      - sound: halloween.werewolf
+        sound_volume: 1.5
+        sound_pitch: 0.2          
+halloween_spirit:
+  inherit: halloween_base_mob
+  health: 50
+  potion_effects:
+    invisibility: 0    
+    slow_falling: 0  
+  name: '&6Spirit'
+  transformable: false
+  protection:    
+    physical: 1
+    fire: 1  
+    projectile: 10
+  item: ""
+  offhand: ""
+  protection:
+    physical: 5
+    projectile: 10
+  entity_attributes:
+    generic_movement_speed: 0.35     
+  interval: 200  
+  triggers:
+    spawn:
+      effects:
+      - sound: halloween.ghost_breath
+        sound_volume: 2
+        sound_pitch: 0.2
+    interval:
+      effects: halloween_spirit_movement      
+    death:
+      effects:
+      - sound: halloween.ghost_breath
+        sound_volume: 1.5
+        sound_pitch: 0.2  
+    damage_dealt:
+      cast:
+      - halloween_spirit_curse
+  drop_xp: 30      
+  drops:
+  - sp:30: 20
+    sp:20: 55
+    sp:10: 25    
+halloween_zombie:
+  inherit: halloween_base_mob
+  type: zombie
+  name: "&6Zombie"   
+  helmet: jack_o_lantern        
+  health: 50
+  entity_attributes:
+    generic_movement_speed: 0.20
+  drop_xp: 30    
+  drops:
+  - "sp:40": 10
+    "sp:30": 30
+    "sp:20": 50
+    "sp:10": 10 
+    
+halloween_horseman:
+  inherit: halloween_base_mob  
+  name: "&6Headless Horseman"  
+  health: 100
+  item: iron_sword
+  offhand: torch
+  helmet: jack_o_lantern    
+  boots: iron_boots
+  leggings: iron_leggings
+  chestplate: iron_chestplate  
+  mount: halloween_horse
+  remove_mounts:
+  - halloween_horse
+  triggers:
+    spawn:
+      effects:
+      - sound: halloween.igor
+        sound_volume: 2
+        sound_pitch: 0.2   
+    death:
+      effects:
+      - sound: halloween.igor
+        sound_volume: 1.5
+        sound_pitch: 0.2   
+        
+halloween_horse:
+  type: skeleton_horse
+  health: 30
+  persist: false
+  default_drops: false
+  saddle: true
+  tamed: true
+  entity_attributes:
+    generic_movement_speed: 0.35 
+
+halloween_spider:
+  inherit: halloween_base_mob  
+  type: spider
+  name: "&6Strange Spider"  
+  health: 100
+  entity_attributes:      
+    generic_attack_damage: 5  
+  triggers:
+    interval:
+      cast:
+        halloween_spiderweb: 5        
+        none: 95
+    spawn:
+      effects:
+      - sound: halloween.swipe
+        sound_volume: 1.8
+        sound_pitch: 0.2           
+    death:
+      effects:
+      - sound: halloween.swipe
+        sound_volume: 1.5
+        sound_pitch: 0.2          
+halloween_scarecrow:
+  inherit: halloween_base_mob
+  requires: ModelEngine
+  type: husk
+  hp: 100
+  name: "&6Scarecrow"
+  model: scarecrow
+  triggers:
+    spawn:
+      effects:
+      - sound: halloween.scarecrow
+        sound_volume: 2
+        sound_pitch: 0.2  
+    death:
+      effects:
+      - sound: halloween.scarecrow
+        sound_volume: 1.5
+        sound_pitch: 0.2  

@@ -1,0 +1,5 @@
+overworld_halloween:
+  world: MainSurvival
+nether_halloween:
+  world: MainSurvival_nether
+

@@ -1,0 +1,35 @@
+overworld_halloween:
+  world: world
+  entity_spawn:
+    halloween_zombie:
+      class: Replace
+      probability: 0.3
+      target_type: zombie
+      replace_type: halloween_zombie
+    halloween_spider:
+      class: Replace
+      probability: 0.3
+      target_type: spider
+      replace_type: halloween_spider
+    halloween:
+      class: Replace
+      probability: 0.2
+      target_types:      
+        - creeper
+        - skeleton
+        - spider
+        - zombie
+      replace_type:
+        halloween_spirit: 1
+        halloween_horseman: 1
+        halloween_scarecrow: 1
+        halloween_werewolf: 1
+
+
+        
+        
+        
+        
+        
+
+

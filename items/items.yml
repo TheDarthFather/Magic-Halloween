@@ -1,0 +1,35 @@
+halloween_pumpkin_hammer:
+  creator_id: 61ea0923-aa44-4910-bcef-5bfd6d3c0d57
+  creator: TheDarthFather 
+  worth: 5000
+  cache: false
+  item: diamond_sword{CustomModelData:1404001}
+  name: "&3The Pumpkin Hammer"
+  lore:
+    - '&fRarity: &3Event &fType: &dMagical'
+    - '&7...from HattoriHanz0 forge '
+  attributes:
+    - attribute: GENERIC_ATTACK_DAMAGE
+      value: ceil(rand(8,15))      
+      operation: 0
+      slot: mainhand
+    - attribute: GENERIC_ATTACK_SPEED
+      value: rand(-0.85, -0.65)      
+      operation: 1
+      slot: mainhand
+    - attribute: GENERIC_KNOCKBACK_RESISTANCE
+      value: rand(0.00,0.30)      
+      operation: 0
+      slot: mainhand
+    - attribute: GENERIC_LUCK
+      value: ceil(rand(0,3))      
+      operation: 0
+      slot: mainhand    
+    - attribute: GENERIC_MOVEMENT_SPEED
+      value: rand(-0.20,-0.01)      
+      operation: 1
+      slot: mainhand  
+  tags:
+  - buffable
+  - sharpenable
+  - transformablesword 

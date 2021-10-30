@@ -1,0 +1,106 @@
+halloween_spirit_curse:
+  name: Spirit Curse   
+  actions:
+    cast:
+    - class: Random
+      actions:
+      - class: PotionEffect
+        add_effects:
+          hunger: 1
+      - class: PotionEffect
+        add_effects:
+          confusion: 2          
+      - class: PotionEffect
+        add_effects:
+          slow: 2          
+  parameters:    
+    target: damage_target
+    duration: 2500
+    
+halloween_poison:
+  name: Poison
+  actions:
+    cast:
+    - class: Probability
+      actions:
+      - class: PotionEffect
+  parameters:
+    target: damage_target
+    add_effects:
+      poison: 1
+    duration: 3000
+    probability: 0.20
+
+halloween_spiderweb:
+  name: Spider Attack
+  actions:
+    cast:
+     - class: CustomProjectile
+       actions:
+       - class: ChangeContext
+         target_caster: true
+         actions:
+           - class: PotionEffect
+       - class: Deactivate
+       - class: ApplyCooldown
+       - class: PotionEffect
+       - class: Repeat
+         actions:
+          - class: Velocity
+          - class: Delay
+            delay: 80
+  effects:
+    cast_finish:    
+    - location: origin
+      particle: block_crack
+      material: cobweb
+      particle_count: 10
+      particle_offset_x: 0.5
+      particle_offset_y: 0.5
+      particle_offset_z: 0.5
+      particle_data: 0.1
+    cast:
+    - location: origin
+      particle: fireworks_spark
+      particle_count: 3
+      particle_data: 0.1
+      sound: magic.zap_crack
+      sound_pitch: 2
+    hit_entity:
+    - location: target
+      effectlib:
+        class: AnimatedBall
+        x_factor: 0.6
+        y_factor: 0.3
+        z_factor: 0.6
+        duration: $duration
+        particle: item_crack
+        material: cobweb
+    - location: target
+      effectlib:
+        class: Warp
+        radius: 0.4
+        rings: 5
+        duration: $duration
+        particle: item_crack
+        material: cobweb
+    - location: target
+      effectlib:
+        class: Line
+        duration: $duration
+        particle: item_crack
+        material: cobweb
+  parameters:
+    target: other
+    target_self: false
+    target_type: Player
+    velocity: 80
+    duration: 2000
+    cooldown: 15000
+    range: 16
+    push: -0.1
+    repeat: 50
+    add_effects:
+      slow: 5
+      jump: -3
+      slow_digging: 5
