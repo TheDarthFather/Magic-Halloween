@@ -27,7 +27,7 @@ Your players will have to use `/getres default`
 
 **2. ModelEngine** is used for a few custom mobs.
 
-Download the ModelEngine plugin and copy the mobs from [here](https://github.com/TheDarthFather/Magic-Halloween/tree/main/dependences/modelengine/blueprints) to the plugin blueprints folder
+Download the ModelEngine plugin and copy the mobs from [here](https://github.com/TheDarthFather/Magic-Halloween/tree/dependences/dependences/modelengine/blueprints) to the plugin blueprints folder
 
 **3. LibDisquises** for mob disquises. 
 
