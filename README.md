@@ -3,7 +3,7 @@ A Halloween config setup for the [Magic Minecraft Plugin](https://www.spigotmc.o
 
 **Instalation**
 
-`mconfig example fetch halloween https://github.com/TheDarthFather/Magic-Halloween/archive/refs/heads/main.zip`
+`/mconfig example fetch halloween https://github.com/TheDarthFather/Magic-Halloween/archive/refs/heads/main.zip`
 
 `/mconfig example add halloween`
 
@@ -25,6 +25,6 @@ Download the ModelEngine plugin and copy the mobs from [here](https://github.com
 
 _**Uninstall**_
 
-`mconfig example halloween remove`
+`/mconfig example halloween remove`
 
 You may want to keep the RP after uninstall if your players got custom Halloween item/wands.
