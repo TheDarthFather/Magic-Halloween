@@ -22,5 +22,7 @@ Download the ModelEngine plugin and copy the mobs from [here](https://github.com
 **3. LibDisquises** for mob disquises. 
 
 **Unninstall**
+
 `mconfig example halloween remove`
+
 You may want to keep the RP after uninstall if your players got custom Halloween item/wands.
