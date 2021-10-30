@@ -54,7 +54,7 @@ halloween_spirit:
   potion_effects:
     invisibility: 0    
     slow_falling: 0  
-  name: '&6Spirit'
+  name: '&4☠ &6Spirit'
   transformable: false
   protection:
     physical: 5
@@ -84,7 +84,7 @@ halloween_spirit:
 halloween_zombie:
   inherit: halloween_base_mob
   type: zombie
-  name: "&6Zombie"   
+  name: "&4☠ &6Zombie"   
   helmet: jack_o_lantern        
   health: 50
   entity_attributes:
@@ -93,7 +93,7 @@ halloween_zombie:
     
 halloween_horseman:
   inherit: halloween_base_mob  
-  name: "&6Headless Horseman"  
+  name: "&4☠ &6Headless Horseman"  
   health: 100
   item: iron_sword
   offhand: torch
@@ -129,7 +129,7 @@ halloween_horse:
 halloween_spider:
   inherit: halloween_base_mob  
   type: spider
-  name: "&6Strange Spider"  
+  name: "&4☠ &6Strange Spider"  
   health: 50
   entity_attributes:      
     generic_attack_damage: 5  
@@ -153,7 +153,7 @@ halloween_scarecrow:
   requires: ModelEngine
   type: husk
   hp: 100
-  name: "&6Scarecrow"
+  name: "&4☠ &6Scarecrow"
   model: scarecrow
   triggers:
     spawn:
