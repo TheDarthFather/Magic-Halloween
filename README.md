@@ -15,13 +15,15 @@ You have a few options available:
 2. Download the [merged pack](https://download.mc-packs.net/pack/ad733ccf10d2f0a9bdb4d88e6cfe51a1322298e1.zip) between Magic-HiRess, MagicHalloween and merge it with your server resource pack, if you have one. 
 3. Download the [MagicHalloweenRP](https://github.com/TheDarthFather/Magic-Halloween/blob/main/dependences/resource-pack/MagicHalloweenRP.zip) pack and merge it with the Magic Pack version of your choice and with your server resource pack, if you have one. 
 
-Great tool for merging RPs [here](https://merge.elmakers.com/)
 
-_RP Config_
 
-In all the cases you will have to edit /Magic/config/\_customizations.yml and add a line as **resource_pack: "*LinkHere*"**
+_RP Configuration_
+
+In all the cases you will have to edit /Magic/config/\_customizations.yml and add this line `resource_pack: "*RPLinkHere*"`
 
 Current working setup for Option 1: `resource_pack: "https://download.mc-packs.net/pack/ad733ccf10d2f0a9bdb4d88e6cfe51a1322298e1.zip"`
+
+Your players will have to use `/getres default`
 
 **2. ModelEngine** is used for a few custom mobs.
 
@@ -43,3 +45,7 @@ You may want to keep the RP after uninstall if your players got custom Halloween
 **To Do**
 
 - Add Haunted House Arena and additional mobs
+
+**Other**
+
+Great tool for merging RPs [here](https://merge.elmakers.com/)
