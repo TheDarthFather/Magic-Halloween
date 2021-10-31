@@ -46,6 +46,7 @@ You may want to keep the RP after uninstall if your players got custom Halloween
 **Features**
 
 - 50% of the Overwold mobs are replaced by special Halloweens mobs
+- SCARRY sounds!
 - All the mobs will have a small change to poison you and some to slow or hunger you.
 - All the mobs have great resistances to physical & projectile damage.
 - All the mobs will drop SP and a few custom weapons. 
