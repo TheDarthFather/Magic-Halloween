@@ -61,7 +61,7 @@ _Current Mobs_
 **Ghost:**
 ![2021-10-31_00 53 48](https://user-images.githubusercontent.com/23462204/139560625-0807e3ab-71e3-4d22-bdd3-640c6f9e453b.png)
 
-Headless Horseman: 
+**Headless Horseman:** 
 ![2021-10-31_00 49 34](https://user-images.githubusercontent.com/23462204/139560628-c3fda435-29f7-4317-9743-e5a82e174b68.png)
 
 **ScareCrow:**
