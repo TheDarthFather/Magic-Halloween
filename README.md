@@ -23,7 +23,6 @@ In all the cases you will have to edit /Magic/config/\_customizations.yml and ad
 
 Current working setup for Option 1: `resource_pack: "https://download.mc-packs.net/pack/ad733ccf10d2f0a9bdb4d88e6cfe51a1322298e1.zip"`
 
-Your players will have to use `/getres default`
 
 **2. ModelEngine** is used for a few custom mobs.
 
