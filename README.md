@@ -7,6 +7,8 @@ A Halloween config setup for the [Magic Minecraft Plugin](https://www.spigotmc.o
 
 `/mconfig example add halloween`
 
+____________________________________________________________________________________________________________
+
 **Dependences:**
 
 **1. Magic-Halloween resource pack** is needed for some custom models.
