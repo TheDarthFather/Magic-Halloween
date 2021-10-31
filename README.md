@@ -46,10 +46,10 @@ You may want to keep the RP after uninstall if your players got custom Halloween
 **Features**
 
 - 50% of the Overwold mobs are replaced by special Halloweens mobs
-- All the mobs will have a smal change to pison, slow, hunger you.
-- All the mobs have great resistances to physical damage.
+- All the mobs will have a small change to poison you and some to slow or hunger you.
+- All the mobs have great resistances to physical & projectile damage.
 - All the mobs will drop SP and a few custom weapons. 
-- Each weapon comes in 2 variants .. one Magical, that rolls different stats on drop and a Unique one that have also a passive spell (ex CriticalChance). 
+- Each weapon comes in 2 variants .. one _Magical_, that _rolls_ different stats on drop and a _Unique_ one that have also a passive spell (ex CriticalChance). 
 
 _Weapons_
 
