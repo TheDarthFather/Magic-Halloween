@@ -10,7 +10,7 @@ A Halloween config setup for the [Magic Minecraft Plugin](https://www.spigotmc.o
 `/mconfig example add halloween`
 
 
----------------------------------------------------------------------------------------------------
+------------------------------------
 **Dependences:** 
 
 
@@ -35,14 +35,14 @@ Download the ModelEngine plugin and copy the mobs from [here](https://github.com
 
 **3. LibDisquises** for mob disquises. 
 
----------------------------------------------------------------------------------------------------
+------------------------------------
 **Uninstall**
 
 `/mconfig example halloween remove`
 
 You may want to keep the RP after uninstall if your players got custom Halloween item/wands.
 
----------------------------------------------------------------------------------------------------
+------------------------------------
 **Features**
 
 - 50% of the Overwold mobs are replaced by special Halloweens mobs
@@ -79,14 +79,14 @@ _Note: MC vanilla 1.6 weapon speed is actualy a -60% generic speed value. As on 
 ![2021-10-31_00 50 24](https://user-images.githubusercontent.com/23462204/139560654-39bc8d96-d37d-411a-8fe8-72537f8e6828.png)
 
 
----------------------------------------------------------------------------------------------------
+------------------------------------
 **To Do**
 
 - Add Haunted House and additional mobs
 
----------------------------------------------------------------------------------------------------
+------------------------------------
 **Other**
 
 Great tool for merging RPs [here](https://merge.elmakers.com/)
 
----------------------------------------------------------------------------------------------------
+------------------------------------
