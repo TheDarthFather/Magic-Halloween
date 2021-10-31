@@ -49,22 +49,22 @@ You may want to keep the RP after uninstall if your players got custom Halloween
 
 _Current Mobs_
 
-Ghost: 
+**Ghost: **
 ![2021-10-31_00 53 48](https://user-images.githubusercontent.com/23462204/139560625-0807e3ab-71e3-4d22-bdd3-640c6f9e453b.png)
 
 Headless Horseman: 
 ![2021-10-31_00 49 34](https://user-images.githubusercontent.com/23462204/139560628-c3fda435-29f7-4317-9743-e5a82e174b68.png)
 
-ScareCrow: 
+**ScareCrow: **
 ![2021-10-31_00 48 49](https://user-images.githubusercontent.com/23462204/139560641-b94dc8f6-06f6-4c80-b3ea-4bda5b0f05d6.png)
 
-Werewolf: 
+**Werewolf:** 
 ![2021-10-31_00 50 14](https://user-images.githubusercontent.com/23462204/139560645-ce42475b-c5c3-4eb4-a122-c6c24b3bfe21.png)
 
-Strange Spider: 
+**Strange Spider: **
 ![2021-10-31_00 49 46](https://user-images.githubusercontent.com/23462204/139560648-ab6e19c4-9be8-4164-85bf-18b45cf3a5d5.png)
 
-Zombie: 
+**Zombie: **
 ![2021-10-31_00 50 24](https://user-images.githubusercontent.com/23462204/139560654-39bc8d96-d37d-411a-8fe8-72537f8e6828.png)
 
 **To Do**
