@@ -51,7 +51,7 @@ You may want to keep the RP after uninstall if your players got custom Halloween
 - All the mobs will drop SP and a few custom weapons. 
 - Each weapon comes in 2 variants .. one _Magical_, that _rolls_ different stats on drop and a _Unique_ one, with fixed stats that have also a passive spell (ex CriticalChance). 
 
-_Note: MC vanilla 1.6 weapon speed is actualy a -60% generic speed value. As on wands I could not add %, you will see a flat speed penalty to ensure a similar cooldown ...  _
+_Note: MC vanilla 1.6 weapon attack speed is actualy a -60% generic speed value. As on wands I could not add %, you will see a flat attack speed penalty to ensure a similar cooldown ... similar for speed and knokback   _
 
 **_Weapons_**
 
