@@ -13,7 +13,7 @@ halloween_pumpkin_critical_hammer:
   hide_flags: 61
 #  protection_falling: 0.5
 #  protection_physical: 0.3
-  name: "&3The Pumpkin Hammer of Critical Hits"
+  name: "&4☠ &3The Pumpkin Hammer of Critical Hits"
   lore:
     - '&fRarity: &3Event &fType: &eUnique'
     - '&d+20% critical chance'
