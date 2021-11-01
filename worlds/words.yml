@@ -3,7 +3,7 @@ overworld_halloween:
   entity_spawn:
     halloween:
       class: Replace
-      min_y: 65
+      min_y: 60
       probability: 0.5
       priority: 91
       target_types:      
