@@ -93,8 +93,7 @@ halloween_spirit:
       effects: 
       - sound: halloween.ghost_breath       
         probability: 0.2        
-  drop_xp: 30      
-
+  drop_xp: 30
     
 halloween_zombie:
   inherit: halloween_base_mob
@@ -174,7 +173,8 @@ halloween_spider:
       interval: 10 seconds
       effects: 
       - sound: halloween.swipe       
-        probability: 0.1        
+        probability: 0.1
+        
 halloween_scarecrow:
   inherit: halloween_base_mob
   requires: ModelEngine
@@ -198,4 +198,4 @@ halloween_scarecrow:
       interval: 15 seconds
       effects: 
       - sound: halloween.scarecrow       
-        probability: 0.2         
+        probability: 0.2
