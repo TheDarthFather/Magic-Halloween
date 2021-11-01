@@ -56,7 +56,7 @@ halloween_werewolf:
       interval: 10 seconds
       effects: 
       - sound: halloween.werewolf       
-        probability: 0.2        
+        probability: 0.3        
 halloween_spirit:
   inherit: halloween_base_mob
   health: 75
@@ -92,7 +92,7 @@ halloween_spirit:
       interval: 10 seconds
       effects: 
       - sound: halloween.ghost_breath       
-        probability: 0.2        
+        probability: 0.3        
   drop_xp: 30
     
 halloween_zombie:
@@ -198,4 +198,4 @@ halloween_scarecrow:
       interval: 15 seconds
       effects: 
       - sound: halloween.scarecrow       
-        probability: 0.2
+        probability: 0.3
