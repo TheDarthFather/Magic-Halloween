@@ -56,7 +56,7 @@ halloween_werewolf:
       interval: 2 seconds
       effects: 
       - sound: halloween.werewolf       
-        probability: 1        
+        #probability: 1        
 halloween_spirit:
   inherit: halloween_base_mob
   health: 75
