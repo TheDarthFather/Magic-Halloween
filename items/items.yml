@@ -34,7 +34,7 @@ halloween_pumpkin_hammer:
   - sharpenable
   - transformablesword 
   
-  halloween_scyth:
+halloween_scyth:
   creator_id: 61ea0923-aa44-4910-bcef-5bfd6d3c0d57
   creator: TheDarthFather 
   worth: 4000
@@ -70,7 +70,7 @@ halloween_pumpkin_hammer:
   - sharpenable
   - transformablesword 
   
-  halloween_sword:
+halloween_sword:
   creator_id: 61ea0923-aa44-4910-bcef-5bfd6d3c0d57
   creator: TheDarthFather 
   worth: 5000
@@ -106,7 +106,7 @@ halloween_pumpkin_hammer:
   - sharpenable
   - transformablesword 
     
-  halloween_scythe:
+halloween_scythe:
   creator_id: 61ea0923-aa44-4910-bcef-5bfd6d3c0d57
   creator: TheDarthFather 
   worth: 6000
