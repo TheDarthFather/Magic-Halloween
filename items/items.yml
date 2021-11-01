@@ -4,7 +4,7 @@ halloween_pumpkin_hammer:
   worth: 5000
   cache: false
   item: diamond_sword{CustomModelData:1404001}
-  name: "&3The Pumpkin Hammer"
+  name: "&4☠ &3The Pumpkin Hammer"
   lore:
     - '&fRarity: &3Event &fType: &dMagical'
     - '&7...from HattoriHanz0 forge '
@@ -27,6 +27,114 @@ halloween_pumpkin_hammer:
       slot: mainhand    
     - attribute: GENERIC_MOVEMENT_SPEED
       value: rand(-0.20,0.00)      
+      operation: 1
+      slot: mainhand  
+  tags:
+  - buffable
+  - sharpenable
+  - transformablesword 
+  
+  halloween_scyth:
+  creator_id: 61ea0923-aa44-4910-bcef-5bfd6d3c0d57
+  creator: TheDarthFather 
+  worth: 4000
+  cache: false
+  item: diamond_sword{CustomModelData:1404002}
+  name: "&4☠ &3Deadly Scyth"
+  lore:
+    - '&fRarity: &3Event &fType: &dMagical'
+    - '&7...from TheRielJVL forge '
+  attributes:
+    - attribute: GENERIC_ATTACK_DAMAGE
+      value: ceil(rand(7,13))      
+      operation: 0
+      slot: mainhand
+    - attribute: GENERIC_ATTACK_SPEED
+      value: rand(-0.70, -0.50)      
+      operation: 1
+      slot: mainhand
+    - attribute: GENERIC_KNOCKBACK_RESISTANCE
+      value: rand(0.00,0.20)      
+      operation: 0
+      slot: mainhand
+    - attribute: GENERIC_LUCK
+      value: ceil(rand(-3,3))      
+      operation: 0
+      slot: mainhand    
+    - attribute: GENERIC_MOVEMENT_SPEED
+      value: rand(0.00,0.20)      
+      operation: 1
+      slot: mainhand  
+  tags:
+  - buffable
+  - sharpenable
+  - transformablesword 
+  
+  halloween_sword:
+  creator_id: 61ea0923-aa44-4910-bcef-5bfd6d3c0d57
+  creator: TheDarthFather 
+  worth: 5000
+  cache: false
+  item: diamond_sword{CustomModelData:1404003}
+  name: "&4☠ &3Headless Horseman's Sword"
+  lore:
+    - '&fRarity: &3Event &fType: &dMagical'
+    - '&7...from TheRielJVL forge '
+  attributes:
+    - attribute: GENERIC_ATTACK_DAMAGE
+      value: ceil(rand(7,14))      
+      operation: 0
+      slot: mainhand
+    - attribute: GENERIC_ATTACK_SPEED
+      value: rand(-0.75, -0.55)      
+      operation: 1
+      slot: mainhand
+    - attribute: GENERIC_KNOCKBACK_RESISTANCE
+      value: rand(0.00,0.20)      
+      operation: 0
+      slot: mainhand
+    - attribute: GENERIC_LUCK
+      value: ceil(rand(-3,3))      
+      operation: 0
+      slot: mainhand    
+    - attribute: GENERIC_MOVEMENT_SPEED
+      value: rand(-0.10,0.10)      
+      operation: 1
+      slot: mainhand  
+  tags:
+  - buffable
+  - sharpenable
+  - transformablesword 
+    
+  halloween_scythe:
+  creator_id: 61ea0923-aa44-4910-bcef-5bfd6d3c0d57
+  creator: TheDarthFather 
+  worth: 6000
+  cache: false
+  item: diamond_sword{CustomModelData:1404004}
+  name: "&4☠ &3Ghostly Scythe"
+  lore:
+    - '&fRarity: &3Event &fType: &dMagical'
+    - '&7...from TheDarthFather forge '
+  attributes:
+    - attribute: GENERIC_ATTACK_DAMAGE
+      value: ceil(rand(9,16))      
+      operation: 0
+      slot: mainhand
+    - attribute: GENERIC_ATTACK_SPEED
+      value: rand(-0.85, -0.65)      
+      operation: 1
+      slot: mainhand
+    - attribute: GENERIC_KNOCKBACK_RESISTANCE
+      value: rand(0.10,0.50)      
+      operation: 0
+      slot: mainhand
+    - attribute: GENERIC_LUCK
+      value: ceil(rand(-1,3))      
+      operation: 0
+      slot: mainhand    
+    - attribute: GENERIC_MOVEMENT_SPEED
+      value: rand(-0.10,0.10)      
       operation: 1
       slot: mainhand  
   tags:
