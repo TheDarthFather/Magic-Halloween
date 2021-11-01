@@ -3,9 +3,9 @@ overworld_halloween:
   entity_spawn:
     halloween:
       class: Replace
-      min_y: 60
-      probability: 0.75
-      priority: 91
+      min_y: 55
+      probability: 1
+      priority: 991
       target_types:      
         - creeper
         - skeleton
