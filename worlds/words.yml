@@ -5,7 +5,7 @@ overworld_halloween:
       class: Replace
       min_y: 65
       probability: 0.5
-      priority: 10
+      priority: 91
       target_types:      
         - creeper
         - skeleton
