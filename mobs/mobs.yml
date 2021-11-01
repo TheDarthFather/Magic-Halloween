@@ -87,6 +87,12 @@ halloween_spirit:
     damage_dealt:
       cast:
       - halloween_spirit_curse
+    growl:
+      type: interval    
+      interval: 10 seconds
+      effects: 
+      - sound: halloween.ghost_breath       
+        probability: 0.2        
   drop_xp: 30      
 
     
@@ -123,7 +129,13 @@ halloween_horseman:
       effects:
       - sound: halloween.igor
         sound_volume: 2
-        sound_pitch: 0.2   
+        sound_pitch: 0.2
+    growl:
+      type: interval    
+      interval: 10 seconds
+      effects: 
+      - sound: halloween.igor       
+        probability: 0.2          
         
 halloween_horse:
   type: skeleton_horse
@@ -156,7 +168,13 @@ halloween_spider:
       effects:
       - sound: halloween.swipe
         sound_volume: 2
-        sound_pitch: 0.2          
+        sound_pitch: 0.2
+    growl:
+      type: interval    
+      interval: 10 seconds
+      effects: 
+      - sound: halloween.swipe       
+        probability: 0.1        
 halloween_scarecrow:
   inherit: halloween_base_mob
   requires: ModelEngine
@@ -174,4 +192,10 @@ halloween_scarecrow:
       effects:
       - sound: halloween.scarecrow
         sound_volume: 2
-        sound_pitch: 0.2  
+        sound_pitch: 0.2
+    growl:
+      type: interval    
+      interval: 15 seconds
+      effects: 
+      - sound: halloween.scarecrow       
+        probability: 0.2         
