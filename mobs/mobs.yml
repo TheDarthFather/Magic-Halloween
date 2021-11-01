@@ -31,7 +31,7 @@ halloween_base_mob:
     halloween_scyth: 5
     halloween_sword: 5
     halloween_scythe: 5
-    none: 80
+    none: 79
 
 halloween_werewolf:
   inherit: halloween_base_mob
