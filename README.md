@@ -41,6 +41,7 @@ Download the ModelEngine plugin and copy the mobs from [here](https://github.com
 `/mconfig example halloween remove`
 
 You may want to keep the RP after uninstall if your players got custom Halloween item/wands.
+
 Alternatively you could use `/meditor world overworld_halloween` and nerf the spawn rate in the rest of the year probability: `0.000001` 
 
 ------------------------------------
