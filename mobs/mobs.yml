@@ -52,11 +52,11 @@ halloween_werewolf:
         sound_volume: 2
         sound_pitch: 0.2
     growl:
-     type: interval    
-     interval: 2 seconds
-     effects: 
-     - sound: halloween.werewolf       
-       probability: 1        
+      type: interval    
+      interval: 2 seconds
+      effects: 
+      - sound: halloween.werewolf       
+        probability: 1        
 halloween_spirit:
   inherit: halloween_base_mob
   health: 75
