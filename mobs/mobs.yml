@@ -27,11 +27,11 @@ halloween_base_mob:
     sp:20: 55
     sp:10: 25
   - halloween_pumpkin_critical_hammer: 1
-    halloween_pumpkin_hammer: 15
-    halloween_scyth: 15
-    halloween_sword: 15
-    halloween_scythe: 15
-    none: 200
+    halloween_pumpkin_hammer: 5
+    halloween_scyth: 5
+    halloween_sword: 5
+    halloween_scythe: 5
+    none: 80
 
 halloween_werewolf:
   inherit: halloween_base_mob
