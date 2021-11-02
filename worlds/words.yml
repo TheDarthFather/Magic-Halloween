@@ -1,7 +1,7 @@
 overworld_halloween:
   world: world
   entity_spawn:
-    halloween:
+    halloween_mobs:
       class: Replace
       min_y: 60
       probability: 0.5
