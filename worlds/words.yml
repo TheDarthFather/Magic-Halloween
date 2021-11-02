@@ -6,6 +6,7 @@ overworld_halloween:
       min_y: 60
       probability: 0.5
       priority: 95
+      allow_indoors: false
       target_types:      
         - creeper
         - skeleton
