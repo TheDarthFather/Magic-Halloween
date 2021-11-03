@@ -4,9 +4,9 @@ overworld_halloween:
     halloween_mobs:
       class: Replace
       min_y: 60
-      probability: 0.5
+      probability: 0.7
       priority: 95
-      allow_indoors: false
+      #allow_indoors: false
       target_types:      
         - creeper
         - skeleton
