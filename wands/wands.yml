@@ -32,6 +32,10 @@ halloween_pumpkin_hat:
     creator_id: 61ea0923-aa44-4910-bcef-5bfd6d3c0d57
     creator: TheDarthFather
     name: "&4☠ &3The Pumpkin Hat"
+    lore:
+    - '&fRarity: &3Event &fType: &eUnique'
+    - '&d+10% magic resistance'
+    - '&7...from TheDarthFather forge '    
     keep: true
     mana_max_boost: 0.15
     mana_regeneration_boost: 0.07
@@ -40,10 +44,7 @@ halloween_pumpkin_hat:
     hide_flags: 61
     protection:
       magic: 0.15    
-    lore:
-    - '&fRarity: &3Event &fType: &eUnique'
-    - '&d+10% magic resistance'
-    - '&7...from TheDarthFather forge '
+
     item_attribute_slot: head
     item_attributes:
         generic_armor: 2
