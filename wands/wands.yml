@@ -9,7 +9,7 @@ halloween_pumpkin_critical_hammer:
   spells: criticalhammerhit
   enchantable: true
   enchantments:
-    sharpness: 5  
+    damage_all: 5  
   effect_color: '11FF11'
   hide_flags: 61
 #  protection_falling: 0.5
