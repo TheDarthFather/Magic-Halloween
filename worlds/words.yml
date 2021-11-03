@@ -13,8 +13,7 @@ overworld_halloween:
         - spider
         - zombie
         - enderman
-        - phantom
-        - husk        
+        - phantom          
       replace_type:
         halloween_spirit: 2
         halloween_horseman: 2
