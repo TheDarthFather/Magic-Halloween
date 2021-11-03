@@ -29,6 +29,13 @@ halloween_pumpkin_critical_hammer:
     
 halloween_pumpkin_hat:
     icon: lectern{CustomModelData:1404001}
+    creator_id: 61ea0923-aa44-4910-bcef-5bfd6d3c0d57
+    creator: TheDarthFather
+    name: "&4☠ &3The Pumpkin Hat"
+    lore:
+    - '&fRarity: &3Event &fType: &eUnique'
+    - '&d+20% critical chance'
+    - '&7...from TheDarthFather forge '
     keep: true
     mana_max_boost: 0.15
     mana_regeneration_boost: 0.07
@@ -41,4 +48,5 @@ halloween_pumpkin_hat:
     item_attributes:
         generic_armor: 2
         generic_armor_toughness: 1
+        GENERIC_MOVEMENT_SPEED: +0.03
     
