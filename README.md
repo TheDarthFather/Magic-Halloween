@@ -16,8 +16,8 @@ A Halloween config setup for the [Magic Minecraft Plugin](https://www.spigotmc.o
 
 **1. Magic-Halloween resource pack** is needed for some custom models.
 You have a few options available:
-1. Use directly the [merged pack](https://download.mc-packs.net/pack/597e35b3b13bc930521dcf9dfd162ce755bb9d8f.zip) between Magic-HiRess and MagicHalloween, by setting up the link into you config as per below instructions.  
-2. Download the [merged pack](https://download.mc-packs.net/pack/597e35b3b13bc930521dcf9dfd162ce755bb9d8f.zip) between Magic-HiRess, MagicHalloween and merge it with your server resource pack, if you have one. 
+1. Use directly the [merged pack](https://download.mc-packs.net/pack/f4e6a52291f7518c09e234679b97cee60924053d.zip) between Magic-HiRess and MagicHalloween, by setting up the link into you config as per below instructions.  
+2. Download the [merged pack](https://download.mc-packs.net/pack/f4e6a52291f7518c09e234679b97cee60924053d.zip) between Magic-HiRess, MagicHalloween and merge it with your server resource pack, if you have one. 
 3. Download the [MagicHalloweenRP](https://github.com/TheDarthFather/Magic-Halloween-Dependences/raw/main/MagicHalloweenRP/MagicHalloweenRP.zip) pack and merge it with the Magic Pack version of your choice and with your server resource pack, if you have one. 
 
 
