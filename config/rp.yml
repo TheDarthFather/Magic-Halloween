@@ -7,4 +7,4 @@ add_resource_pack: all
 # Alternate resource packs can be accessed with /getrp <pack>
 alternate_resource_packs:
   halloween:
-    url: "https://download.mc-packs.net/pack/597e35b3b13bc930521dcf9dfd162ce755bb9d8f.zip"
+    url: "https://download.mc-packs.net/pack/f4e6a52291f7518c09e234679b97cee60924053d.zip"
