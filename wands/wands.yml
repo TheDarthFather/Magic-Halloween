@@ -46,7 +46,7 @@ halloween_pumpkin_hat:
     #- '&eMana Boost &b+15% '
     #- '&eMana Regeneration &b+7% '     
     keep: true
-    mana_max_boost: 0.15
+    mana_max_boost: 0.12
     mana_regeneration_boost: 0.07
     protection:
       magic: 0.15 
