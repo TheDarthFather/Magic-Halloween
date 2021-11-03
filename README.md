@@ -59,7 +59,8 @@ _Note: MC vanilla 1.6 weapon attack speed is actualy a -60% generic speed value.
 
 **_Hat_**
 
-![2021-11-03_13 55 11](https://user-images.githubusercontent.com/23462204/140064109-f134d71b-7632-455d-a626-a5e56f740a88.png)
+![2021-11-03_14 37 14](https://user-images.githubusercontent.com/23462204/140070216-2143fe38-9fc5-4a9e-8f7d-2fc93ab57348.png)
+
 
 **_Weapons_**
 
