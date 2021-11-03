@@ -33,6 +33,12 @@ halloween_base_mob:
     halloween_sword: 5
     halloween_scythe: 5
     none: 78
+  loot:
+    gold_nugget:
+      count: looting * 3 + 10
+    diamond:
+      probability: 0.5 + luck / 10
+      count: 1 + looting / 3    
 
 halloween_werewolf:
   inherit: halloween_base_mob
