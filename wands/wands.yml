@@ -14,10 +14,14 @@ halloween_pumpkin_critical_hammer:
 #  protection_falling: 0.5
 #  protection_physical: 0.3
   name: "&4☠ &3The Pumpkin Hammer of Critical Hits"
-  lore:
-    - '&fRarity: &3Event &fType: &eUnique'
-    - '&d+20% critical chance'
-    - '&7...from HattoriHanz0 forge '    
+  description: |-
+    &fRarity: &3Event &fType: &eUnique
+    &d+20% critical chance
+    &7...from HattoriHanz0 forge
+  #lore:
+  #  - '&fRarity: &3Event &fType: &eUnique'
+  #  - '&d+20% critical chance'
+  #  - '&7...from HattoriHanz0 forge '    
   item_attribute_slot: mainhand    
   item_attributes:
       GENERIC_ATTACK_DAMAGE: 14
