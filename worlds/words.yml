@@ -16,8 +16,8 @@ overworld_halloween:
         - phantom
         - husk        
       replace_type:
-        halloween_spirit: 1
-        halloween_horseman: 1
+        halloween_spirit: 2
+        halloween_horseman: 2
         halloween_scarecrow: 3
         halloween_werewolf: 2
         halloween_spider: 3
