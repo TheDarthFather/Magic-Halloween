@@ -2,14 +2,13 @@ halloween_pumpkin_critical_hammer:
   version: 7
   creator_id: 61ea0923-aa44-4910-bcef-5bfd6d3c0d57
   creator: TheDarthFather
-  #inherit: base_keep  
-
+  #inherit: base_keep
   icon: diamond_sword{CustomModelData:1404001}
   legacy_icon: sword_icon:1
   spells: criticalhammerhit
   enchantable: true
-  enchantments:
-    damage_all: 5  
+  enchantments:    
+    DAMAGE_ALL: 5  
   effect_color: '11FF11'
   hide_flags: 61
 #  protection_falling: 0.5
