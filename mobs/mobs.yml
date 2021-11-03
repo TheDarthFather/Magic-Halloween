@@ -37,7 +37,7 @@ halloween_base_mob:
     gold_nugget:
       count: looting * 3 + 10
     diamond:
-      probability: 0.5 + luck / 10
+      probability: luck / 20
       count: 1 + looting / 3    
 
 halloween_werewolf:
