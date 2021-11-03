@@ -4,8 +4,8 @@ halloween_pumpkin_hammer:
   worth: 5000
   cache: false
   item: diamond_sword{CustomModelData:1404001}
-  enchantments:    
-    damage_all: 5
+  #enchantments:    
+  #  damage_all: 5
   name: "&4☠ &3The Pumpkin Hammer"
   #description: "&fRarity: &3Event &fType: &dMagical/n&7...from HattoriHanz0 forge"
   lore:
