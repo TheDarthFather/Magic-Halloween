@@ -49,7 +49,7 @@ halloween_pumpkin_hat:
 
     item_attribute_slot: head
     item_attributes:
-        generic_armor: 2
+        generic_armor: 1
         generic_armor_toughness: 1
-        GENERIC_MOVEMENT_SPEED: +0.03
+        GENERIC_MOVEMENT_SPEED: +0.02
     
