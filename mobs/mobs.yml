@@ -41,6 +41,9 @@ halloween_werewolf:
   chestplate: leather_chestplate:#000000
   leggings: leather_leggings:#000000
   health: 100
+  brain:
+  goals:
+  - goal: open_door
   triggers:
     spawn:
       effects:
@@ -71,7 +74,10 @@ halloween_spirit:
     projectile: 10
   entity_attributes:
     generic_movement_speed: 0.35     
-  interval: 301  
+  interval: 301
+  goals:
+  - goal: open_door
+    close: true
   triggers:
     spawn:
       effects:
