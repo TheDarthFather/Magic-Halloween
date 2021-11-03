@@ -5,11 +5,9 @@ halloween_pumpkin_hammer:
   cache: false
   item: diamond_sword{CustomModelData:1404001}
   name: "&4☠ &3The Pumpkin Hammer"
-  #lore:
-  #  - '&fRarity: &3Event &fType: &dMagical'
-  #  - '&7...from HattoriHanz0 forge '
-  enchants:    
-    sharpness: 5    
+  lore:
+    - '&fRarity: &3Event &fType: &dMagical'
+    - '&7...from HattoriHanz0 forge '  
   attributes:
     - attribute: GENERIC_ATTACK_DAMAGE
       value: ceil(rand(8,15))      
