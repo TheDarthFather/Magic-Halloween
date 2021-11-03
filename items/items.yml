@@ -7,7 +7,6 @@ halloween_pumpkin_hammer:
   #enchantments:    
   #  damage_all: 5
   name: "&4☠ &3The Pumpkin Hammer"
-  #description: "&fRarity: &3Event &fType: &dMagical/n&7...from HattoriHanz0 forge"
   lore:
     - '&fRarity: &3Event &fType: &dMagical'
     - '&7...from HattoriHanz0 forge '
