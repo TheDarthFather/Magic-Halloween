@@ -1,9 +1,9 @@
 overworld_halloween:
   world: world
   entity_spawn:
-    halloween_mobs:
+    halloweenmobs:
       class: Replace
-      #min_y: 60
+      min_y: 60
       probability: 0.5
       priority: 995
       #allow_indoors: false
