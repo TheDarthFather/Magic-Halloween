@@ -34,7 +34,6 @@ halloween_pumpkin_hat:
     name: "&4☠ &3The Pumpkin Hat"
     lore:
     - '&fRarity: &3Event &fType: &eUnique'
-    - '&d+20% critical chance'
     - '&7...from TheDarthFather forge '
     keep: true
     mana_max_boost: 0.15
