@@ -3,8 +3,8 @@ halloween_pumpkin_critical_hammer:
   creator_id: 61ea0923-aa44-4910-bcef-5bfd6d3c0d57
   creator: TheDarthFather
   #inherit: base_keep  
-  #enchantments:
-  #  minecraft:sharpness: 5
+  enchantments:
+    minecraft:sharpness: 5
   icon: diamond_sword{CustomModelData:1404001}
   legacy_icon: sword_icon:1
   spells: criticalhammerhit
