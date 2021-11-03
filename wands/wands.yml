@@ -37,8 +37,8 @@ halloween_pumpkin_hat:
     creator: TheDarthFather
     name: "&4☠ &3The Pumpkin Hat"
     description: |-
-    &fRarity: &3Event &fType: &eUnique
-    &7...from TheDarthFather forge
+      &fRarity: &3Event &fType: &eUnique
+      &7...from TheDarthFather forge
     #lore:
     #- '&fRarity: &3Event &fType: &eUnique'
     #- '&7...from TheDarthFather forge '
