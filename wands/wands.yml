@@ -17,7 +17,7 @@ halloween_pumpkin_critical_hammer:
   lore:
     - '&fRarity: &3Event &fType: &eUnique'
     - '&d+20% critical chance'
-    - '&7...from HattoriHanz0 forge '
+    - '&7...from HattoriHanz0 forge '    
   item_attribute_slot: mainhand    
   item_attributes:
       GENERIC_ATTACK_DAMAGE: 14
@@ -34,8 +34,10 @@ halloween_pumpkin_hat:
     name: "&4☠ &3The Pumpkin Hat"
     lore:
     - '&fRarity: &3Event &fType: &eUnique'
-    - '&d+10% magic resistance'
-    - '&7...from TheDarthFather forge '    
+    - '&7...from TheDarthFather forge '
+    - '&2Magic resistance &e+10% '
+    - '&eMana Boost &e+15% '
+    - '&eMana Regeneration &e+7% '     
     keep: true
     mana_max_boost: 0.15
     mana_regeneration_boost: 0.07
