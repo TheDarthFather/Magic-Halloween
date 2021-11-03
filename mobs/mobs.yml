@@ -1,5 +1,5 @@
 halloween_base_mob:  
-  type: husk
+  type: skeleton
   silent: true
   show_name: true
   item: ""
