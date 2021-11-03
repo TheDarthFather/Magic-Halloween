@@ -6,8 +6,8 @@ halloween_pumpkin_hammer:
   item: diamond_sword{CustomModelData:1404001}
   name: "&4☠ &3The Pumpkin Hammer"
   description: |-
-           &fRarity: &3Event &fType: &dMagical
-           &7...from HattoriHanz0 forge  
+    &fRarity: &3Event &fType: &dMagical
+    &7...from HattoriHanz0 forge  
   attributes:
     - attribute: GENERIC_ATTACK_DAMAGE
       value: ceil(rand(8,15))      
