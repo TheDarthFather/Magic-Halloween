@@ -8,7 +8,7 @@ halloween_pumpkin_hammer:
   #lore:
   #  - '&fRarity: &3Event &fType: &dMagical'
   #  - '&7...from HattoriHanz0 forge '
-  enchantments:    
+  enchants:    
     sharpness: 5    
   attributes:
     - attribute: GENERIC_ATTACK_DAMAGE
