@@ -52,7 +52,7 @@ halloween_scyth:
       operation: 0
       slot: mainhand
     - attribute: GENERIC_ATTACK_SPEED
-      value: rand(-0.70, -0.50)      
+      value: rand(-0.70, -0.59)      
       operation: 1
       slot: mainhand
     - attribute: GENERIC_KNOCKBACK_RESISTANCE
