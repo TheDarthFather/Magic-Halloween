@@ -191,10 +191,11 @@ halloween_spider:
 halloween_scarecrow:
   inherit: halloween_base_mob
   requires: ModelEngine
+  model: scarecrow
   type: husk
   hp: 100
   name: "&4☠ &6Scarecrow"
-  model: scarecrow
+  show_name: true 
   triggers:
     spawn:
       effects:
