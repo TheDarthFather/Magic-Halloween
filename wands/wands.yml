@@ -54,7 +54,8 @@ halloween_pumpkin_hat:
     passive: true
     enchantable: true
     hide_flags: 61
-    item_attribute_slot: head
+    wearable: helmet
+    item_attribute_slot: head    
     item_attributes:
         generic_armor: 1
         generic_armor_toughness: 1
