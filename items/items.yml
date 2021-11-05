@@ -16,7 +16,7 @@ halloween_pumpkin_hammer:
       operation: 0
       slot: mainhand
     - attribute: GENERIC_ATTACK_SPEED
-      value: rand(-0.85, -0.65)      
+      value: rand(-0.80, -0.60)      
       operation: 1
       slot: mainhand
     - attribute: GENERIC_KNOCKBACK_RESISTANCE
@@ -52,7 +52,7 @@ halloween_scyth:
       operation: 0
       slot: mainhand
     - attribute: GENERIC_ATTACK_SPEED
-      value: rand(-0.70, -0.59)      
+      value: rand(-0.79, -0.59)      
       operation: 1
       slot: mainhand
     - attribute: GENERIC_KNOCKBACK_RESISTANCE
@@ -88,7 +88,7 @@ halloween_sword:
       operation: 0
       slot: mainhand
     - attribute: GENERIC_ATTACK_SPEED
-      value: rand(-0.75, -0.55)      
+      value: rand(-0.65, -0.60)      
       operation: 1
       slot: mainhand
     - attribute: GENERIC_KNOCKBACK_RESISTANCE
@@ -124,7 +124,7 @@ halloween_scythe:
       operation: 0
       slot: mainhand
     - attribute: GENERIC_ATTACK_SPEED
-      value: rand(-0.85, -0.65)      
+      value: rand(-0.80, -0.60)      
       operation: 1
       slot: mainhand
     - attribute: GENERIC_KNOCKBACK_RESISTANCE
