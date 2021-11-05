@@ -33,7 +33,7 @@ halloween_pumpkin_critical_hammer:
       GENERIC_MOVEMENT_SPEED: -0.03    
     
 halloween_pumpkin_hat:
-    icon: lectern{CustomModelData:1404001}
+    icon: leather_helmet{CustomModelData:1404001}
     creator_id: 61ea0923-aa44-4910-bcef-5bfd6d3c0d57
     creator: TheDarthFather
     name: "&4☠ &3The Pumpkin Hat"
