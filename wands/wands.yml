@@ -26,6 +26,7 @@ halloween_pumpkin_critical_hammer:
   item_attributes:
       GENERIC_ATTACK_DAMAGE: 14
       #GENERIC_ATTACK_SPEED: -80% axe attack speed is -76% ... need operation 1 for % .,.. how to add here ?
+      # -3 seems close to -76% 
       GENERIC_ATTACK_SPEED: -3
       GENERIC_KNOCKBACK_RESISTANCE: 1
       GENERIC_LUCK: -2            
