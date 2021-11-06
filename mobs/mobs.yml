@@ -53,19 +53,19 @@ halloween_werewolf:
   triggers:
     spawn:
       effects:
-      - sound: halloween.werewolf
+      - sound: magic.werewolf
         sound_volume: 3
         sound_pitch: 0.2  
     death:
       effects:
-      - sound: halloween.werewolf
+      - sound: magic.werewolf
         sound_volume: 2
         sound_pitch: 0.2
     growl:
       type: interval    
       interval: 10 seconds
       effects: 
-      - sound: halloween.werewolf       
+      - sound: magic.werewolf       
         probability: 0.3        
 halloween_spirit:
   inherit: halloween_base_mob
@@ -87,14 +87,14 @@ halloween_spirit:
   triggers:
     spawn:
       effects:
-      - sound: halloween.ghost_breath
+      - sound: magic.ghost_breath
         sound_volume: 3
         sound_pitch: 0.2
     interval:
       effects: halloween_spirit_movement      
     death:
       effects:
-      - sound: halloween.ghost_breath
+      - sound: magic.ghost_breath
         sound_volume: 2
         sound_pitch: 0.2  
     damage_dealt:
@@ -104,7 +104,7 @@ halloween_spirit:
       type: interval    
       interval: 10 seconds
       effects: 
-      - sound: halloween.ghost_breath       
+      - sound: magic.ghost_breath       
         probability: 0.3        
   drop_xp: 30
     
@@ -134,19 +134,19 @@ halloween_horseman:
   triggers:
     spawn:
       effects:
-      - sound: halloween.igor
+      - sound: magic.igor
         sound_volume: 3
         sound_pitch: 0.2   
     death:
       effects:
-      - sound: halloween.igor
+      - sound: magic.igor
         sound_volume: 2
         sound_pitch: 0.2
     growl:
       type: interval    
       interval: 10 seconds
       effects: 
-      - sound: halloween.igor       
+      - sound: magic.igor       
         probability: 0.2          
         
 halloween_horse:
@@ -173,19 +173,19 @@ halloween_spider:
         none: 95
     spawn:
       effects:
-      - sound: halloween.swipe
+      - sound: magic.swipe
         sound_volume: 3
         sound_pitch: 0.2           
     death:
       effects:
-      - sound: halloween.swipe
+      - sound: magic.swipe
         sound_volume: 2
         sound_pitch: 0.2
     growl:
       type: interval    
       interval: 10 seconds
       effects: 
-      - sound: halloween.swipe       
+      - sound: magic.swipe       
         probability: 0.1
         
 halloween_scarecrow:
@@ -199,17 +199,17 @@ halloween_scarecrow:
   triggers:
     spawn:
       effects:
-      - sound: halloween.scarecrow
+      - sound: magic.scarecrow
         sound_volume: 3
         sound_pitch: 0.2  
     death:
       effects:
-      - sound: halloween.scarecrow
+      - sound: magic.scarecrow
         sound_volume: 2
         sound_pitch: 0.2
     growl:
       type: interval    
       interval: 15 seconds
       effects: 
-      - sound: halloween.scarecrow       
+      - sound: magic.scarecrow       
         probability: 0.3
