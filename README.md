@@ -19,13 +19,12 @@ If you are not on the Magic Dev version after 05-Nov-2021 you will need to fetch
 
 **Features**
 
-- 50% of the Overwold mobs are replaced by special Halloweens mobs
+- 50% of the Overwold mobs are replaced by special Halloween mobs
 - SCARRY sounds!
 - All the mobs will have a small change to poison you and some to slow or hunger you.
-- All the mobs have great resistances to physical & projectile damage.
-- All the mobs will drop SP and a few custom weapons. 
-- Halloween Wizard Hat!
-- A few custom Wepons: each comes in 2 variants .. one _Magical_, that _rolls_ different stats on drop and a _Unique_ one, with fixed stats that have also a passive spell (ex CriticalChance). 
+- All the mobs have great resistances to physical & projectile damage... so MAGIC is advised!
+- All the mobs will drop SP and a few custom weapons and a Halloween Wizard Hat!
+- The custom weapons come in 2 variants .. one _Magical_, that _rolls_ different stats on drop and a _Unique_ one, with fixed stats that have also a passive spell (ex CriticalChance). 
 
 _Note: MC vanilla 1.6 weapon attack speed is actualy a -60% generic speed value. As on wands I could not add %, you will see a flat attack speed penalty to ensure a similar cooldown ... similar for speed and knokback   _
 
