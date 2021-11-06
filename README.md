@@ -16,15 +16,7 @@ If you are not on the Magic Dev version after 05-Nov-2021 you will need to fetch
 `/mconfig example fetch halloween https://github.com/TheDarthFather/Magic-Halloween/archive/refs/heads/main.zip`
 
 ------------------------------------
-**Uninstall**
 
-`/mconfig example halloween remove`
-
-You may want to keep the RP after uninstall if your players got custom Halloween item/wands.
-
-Alternatively you could use `/meditor world overworld_halloween` and nerf the spawn rate in the rest of the year `probability: 0.000001` 
-
-------------------------------------
 **Features**
 
 - 50% of the Overwold mobs are replaced by special Halloweens mobs
@@ -75,6 +67,16 @@ _Note: MC vanilla 1.6 weapon attack speed is actualy a -60% generic speed value.
 **To Do**
 
 - Add Haunted House and additional mobs
+
+------------------------------------
+
+**Uninstall**
+
+`/mconfig example halloween remove`
+
+You may want to keep the RP after uninstall if your players got custom Halloween item/wands.
+
+Alternatively you could use `/meditor world overworld_halloween` and nerf the spawn rate in the rest of the year `probability: 0.000001` 
 
 ------------------------------------
 **Other**
