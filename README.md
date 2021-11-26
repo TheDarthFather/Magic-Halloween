@@ -11,7 +11,7 @@ A Halloween config setup for the [Magic Minecraft Plugin](https://www.spigotmc.o
 `/mconfig example add halloween`
 
 
-If you are not on the Magic Dev version after 05-Nov-2021 you will need to fetch with the full path:
+If you are on Magic versions previous to 10.1 you will need to fetch with the full path:
 
 `/mconfig example fetch halloween https://github.com/TheDarthFather/Magic-Halloween/archive/refs/heads/main.zip`
 
