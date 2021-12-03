@@ -74,7 +74,8 @@ _Note: MC vanilla 1.6 weapon attack speed is actualy a -60% generic speed value.
 `/mconfig example halloween remove`
 
 
-Alternatively you could use `/meditor world overworld_halloween` and nerf the spawn rate in the rest of the year `probability: 0.000001` 
+Alternatively you could use `/meditor world overworld_halloween` and nerf the spawn rate in the rest of the year `probability: 0.000001`. 
+This is the preffered method as will enture all the loot you gathered from the halloween mobs .. will stay. 
 
 ------------------------------------
 **Other**
