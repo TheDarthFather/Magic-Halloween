@@ -1,6 +1,8 @@
 # Magic-Halloween
 A Halloween config setup for the [Magic Minecraft Plugin](https://www.spigotmc.org/resources/magic.1056/). This is a hard depencence and it will not work without.
 
+You will also need Model Engine plugin and the free Scarecrow model.
+
 
 ------------------------------------
 **Install**
